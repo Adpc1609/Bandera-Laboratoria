@@ -41,23 +41,17 @@ body{
 }
 .elemento7{
     background-color: orange;
-    height: 100px;
-    width: 150px;
     display: inline;
     margin-right: 8px;
 }
 .elemento8{
     background-color:black;
     color: white;
-    height: 100px;
-    width: 150px;
    display: inline;
    margin-right: 8px;
  
 }
 .elemento9{
     background-color: orange;
-    height: 100px;
-    width: 150px;
     display:inline;
 }
